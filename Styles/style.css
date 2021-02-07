@@ -1,24 +1,47 @@
+.headers
+{
+    text-align:center;
+    margin:20px
+}
+
 .siteDescription
 {
-
+    text-align:center;
 }
 
 .goalDescription
 {
-
+    text-align:center;
 }
 
 .messageCard
 {
+    text-align:center;
+}
 
+.messageCards
+{
+    text-align:center;
+    margin-top:50px;
+}
+
+.messageCardInputBox
+{
+    margin:5px;
 }
 
 #title
 {
-
+    margin-top:50px;
+    margin-bottom:30px;
 }
 
 #startHelping
 {
     
+}
+
+#ourGoal
+{
+
 }
